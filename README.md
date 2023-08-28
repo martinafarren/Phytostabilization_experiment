@@ -1,4 +1,4 @@
-# Phytostabilization_experiment
+# Phytostabilization experiment
 Here we attached four R codes used for analysis and presentation of microbime data, the results of which are presented in publication "Compost, plants and endophytes versus metal contamination: Choice of a restoration strategy steers the microbiome in polymetallic mine waste"
 
 authors: Martina Kracmarova-Farren, Jakub Papik, Ondrej Uhlik, John Freeman, Andrea Foster, Mary-Cathrine Leewis, Courtney Creamer
